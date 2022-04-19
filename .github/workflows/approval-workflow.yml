@@ -1,1 +1,3 @@
 Name: Team awesome's new workflow
+
+on: pull_request_review
